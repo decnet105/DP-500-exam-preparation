@@ -7,3 +7,4 @@ Listed resources used to prepare Microsoft DP-500 exam
 
 # Lab
 * [ESI Labs](https://esi.learnondemand.net/)
+* [Microsoft Learn Courseware](https://learn.microsoft.com/en-us/training/courses/DP-500T00?WT.mc_id=esi_m2l_content_wwl&ocid=%20#study-guide)
