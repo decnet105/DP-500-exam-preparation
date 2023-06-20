@@ -18,3 +18,5 @@ Listed resources used to prepare Microsoft DP-500 exam
 * [Aggregate Functions (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/functions/aggregate-functions-transact-sql?view=sql-server-ver16)
 * [Ranking Functions (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/functions/ranking-functions-transact-sql?view=sql-server-ver16)
 * [Get started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)
+* [Configuring Incremental Refresh in Power BI](https://www.youtube.com/watch?reload=9&v=Kui_1G6kQIQ)
+* [How do you even use VertiPaq Analyzer with Power BI???](https://www.youtube.com/watch?v=m34IOHcNPPo&list=PLvry1t3nNCfiP3PpRxFTB7WCfgzq74177&index=6&t=636s&ab_channel=GuyinaCube)
