@@ -20,3 +20,5 @@ Listed resources used to prepare Microsoft DP-500 exam
 * [Get started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)
 * [Configuring Incremental Refresh in Power BI](https://www.youtube.com/watch?reload=9&v=Kui_1G6kQIQ)
 * [How do you even use VertiPaq Analyzer with Power BI???](https://www.youtube.com/watch?v=m34IOHcNPPo&list=PLvry1t3nNCfiP3PpRxFTB7WCfgzq74177&index=6&t=636s&ab_channel=GuyinaCube)
+* [Additional time intelligence calculations](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/3-calculations)
+* [Use composite models in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-composite-models)
