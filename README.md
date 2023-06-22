@@ -24,3 +24,4 @@ Listed resources used to prepare Microsoft DP-500 exam
 * [Additional time intelligence calculations](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/3-calculations)
 * [Use composite models in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-composite-models)
 * [Assigning a workspace to a Power BI Application lifecycle management (ALM) deployment pipeline](https://learn.microsoft.com/en-us/power-bi/create-reports/deployment-pipelines-assign)
+* [Enterprise Skills Initiative (ESI) ](https://esi.microsoft.com/landing)
