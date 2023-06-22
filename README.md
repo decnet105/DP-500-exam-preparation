@@ -11,6 +11,7 @@ Listed resources used to prepare Microsoft DP-500 exam
 
 # Github Repo
 * [Microsoft Learning DP-500 Repo](https://github.com/MicrosoftLearning/DP-500-Azure-Data-Analyst)
+* [Create calculation groups](https://github.com/MicrosoftLearning/DP-500-Azure-Data-Analyst/blob/main/Instructions/labs/07-create-calculation-groups.md)
 
 # References
 * [Understand Synapse dedicated SQL pool (formerly SQL DW) and Serverless SQL pool](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/understand-synapse-dedicated-sql-pool-formerly-sql-dw-and/ba-p/3594628)
