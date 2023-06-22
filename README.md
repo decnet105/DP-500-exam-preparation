@@ -23,3 +23,4 @@ Listed resources used to prepare Microsoft DP-500 exam
 * [How do you even use VertiPaq Analyzer with Power BI???](https://www.youtube.com/watch?v=m34IOHcNPPo&list=PLvry1t3nNCfiP3PpRxFTB7WCfgzq74177&index=6&t=636s&ab_channel=GuyinaCube)
 * [Additional time intelligence calculations](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/3-calculations)
 * [Use composite models in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-composite-models)
+* [Assigning a workspace to a Power BI Application lifecycle management (ALM) deployment pipeline](https://learn.microsoft.com/en-us/power-bi/create-reports/deployment-pipelines-assign)
