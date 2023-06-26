@@ -25,3 +25,4 @@ Listed resources used to prepare Microsoft DP-500 exam
 * [Use composite models in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-composite-models)
 * [Assigning a workspace to a Power BI Application lifecycle management (ALM) deployment pipeline](https://learn.microsoft.com/en-us/power-bi/create-reports/deployment-pipelines-assign)
 * [Enterprise Skills Initiative (ESI) ](https://esi.microsoft.com/landing)
+* [Access Synapse SQL table from Synapse Spark](https://github.com/Azure-Samples/Synapse/blob/main/Notebooks/Scala/03%20Read%20and%20write%20from%20SQL%20pool%20table.ipynb)
